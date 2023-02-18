@@ -11,5 +11,4 @@ while(novoNumero == "S"){
     novoNumero = prompt("Deseja informar mais um numero? \n[S]im\n[N]ao");
     }
     media = somaNumeros / quantidadeNumeros;
-console.log("A media dos numeros informados é " +
-media);
+console.log("A media dos numeros informados é " + media);
